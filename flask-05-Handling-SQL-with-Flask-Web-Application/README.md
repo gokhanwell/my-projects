@@ -88,6 +88,12 @@ At the end of the this hands-on training, students will be able to;
 
 - Install `flask_mysql`.
 
+- Install `sqlalchemy`.
+
+- Install `Flask-SQLAlchemy`.
+
 - Run application with Python
+
+
 
 
